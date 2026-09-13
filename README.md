@@ -11,11 +11,3 @@ Landing page estática do Pack Designer Revolution.
 5. Selecione a branch `main`, a pasta `/ (root)` e salve.
 
 O site usa apenas HTML, CSS e JavaScript, sem instalação ou processo de build.
-
-## Editar o preço
-
-O valor de lançamento aparece no arquivo `index.html`. Pesquise por `29,90` para alterá-lo.
-
-## Link de compra
-
-Todos os botões apontam para: `https://pay.kiwify.com.br/SaADHAd`
